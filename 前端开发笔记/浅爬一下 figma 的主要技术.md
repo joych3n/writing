@@ -33,4 +33,4 @@ Figma 是一款基于云端、实时的协作式界面设计和原型工具，�
 
 - 本地算法自动把多个修改合并成一致结果
 
-总结一句话：Figma = WebAssembly + Canvas/WebGL + 实时协同同步协议
+**总结一句话：Figma = WebAssembly + Canvas/WebGL + 实时协同同步协议**
